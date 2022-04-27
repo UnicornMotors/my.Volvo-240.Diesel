@@ -23,6 +23,7 @@ Battery:
 - Romex Wire, to Wrap a makeshift Connection
 
 Cleaning:
+- Garden Hose with intact Ends
 - Pressure Washer!
 - Compressor
 - Cylinder Wire Brushes for Cleaning Block Thread Holes!
