@@ -4,7 +4,7 @@ my. Bring:
 For Hoist:
 - PlyWood or Skatelite Boards to roll Engine Hoist Onto!
 - & 2x4 to rase boards to Slab level!
-- Shovel
+- Folding Hand Shovel
 
 Transmission:
 - Assorted Fine Torx Sockets! for shift linkage: https://youtu.be/t1s_m0thVBQ?t=137
