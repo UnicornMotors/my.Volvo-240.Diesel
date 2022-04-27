@@ -1,16 +1,34 @@
 # my.Volvo.240.car
 my. Bring:
 
-Tools to Repair and re-solder Wiring Harness! (Assorted Different colored Wire rolls!, Zip Ties, End Connectors, Shrink Wrap, Electrical Tape),
+Wiring: Tools to Repair and re-solder Wiring Harness!
+- Multimeter
+- Assorted Different colored Wire rolls!
+- Zip Ties
+- Wire Stripper
+- Razor Knife
+- End Connectors
+- Shrink Wrap
+- Electrical Tape
 
-Cleaning: Pressure Washer!, 2 3-Ton Jacks &amp; 4 Jackstands
+Battery:
+- Car Battery from S-10
+- Screw in Terminals
+- Romex Wire, to Wrap a makeshift Connection
 
-Block of wood to Wedge Clutch!
+Cleaning:
+- Pressure Washer!
+- Compressor
+- Cylinder Wire Brushes for Cleaning Block Thread Holes!
 
-Hacksaw & Steel Tube for Leverage Extension
+Removal:
+- 2 3-Ton Jacks &amp; 4 Jackstands
+- Block of wood to Wedge Clutch!
+- Hacksaw & Steel Tube for Leverage Extension
 
-Hoses for running from Fuel Bucket
+Fuel:
+- Hoses for running from Fuel Bucket
+- Can of Cleann Diesel Fuel!
 
-Can of Cleann Diesel Fuel!
-
-Fuel Pump? Where is it?
+# Do
+Find Fuel Pump? Where is it?
