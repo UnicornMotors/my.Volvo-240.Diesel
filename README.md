@@ -1,2 +1,16 @@
 # my.Volvo.240.car
-my. Bring: Tools to Repair and re-solder Wiring Harness! (Assorted Different colored Wire rolls!, Zip Ties, End Connectors, Shrink Wrap, Electrical Tape), Cleaning: Pressure Washer!, 2 3-Ton Jacks &amp; 4 Jackstands
+my. Bring:
+
+Tools to Repair and re-solder Wiring Harness! (Assorted Different colored Wire rolls!, Zip Ties, End Connectors, Shrink Wrap, Electrical Tape),
+
+Cleaning: Pressure Washer!, 2 3-Ton Jacks &amp; 4 Jackstands
+
+Block of wood to Wedge Clutch!
+
+Hacksaw & Steel Tube for Leverage Extension
+
+Hoses for running from Fuel Bucket
+
+Can of Cleann Diesel Fuel!
+
+Fuel Pump? Where is it?
