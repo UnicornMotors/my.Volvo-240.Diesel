@@ -1,6 +1,9 @@
 # my.Volvo.240.car
 my. Bring:
 
+Transmission:
+- Assorted Fine Torx Sockets! for this: https://youtu.be/t1s_m0thVBQ?t=137
+
 Comfort:
 - Placemat from under F-250!
 
